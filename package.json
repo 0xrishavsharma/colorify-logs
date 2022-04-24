@@ -1,0 +1,38 @@
+{
+  "name": "colorify-logs",
+  "version": "1.0.0",
+  "description": "It's a simple npm package to Colorify your console logs. This library is in development mode and is not yet ready for production use.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare":"npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavsharma-eth/colorify-logs.git"
+  },
+  "keywords": [
+    "console logs",
+    "colorify",
+    "color",
+    "logs",
+    "log",
+    "beautify logs",
+    "beautiful logs",
+    "eye catchy logs",
+    "catchy logs"
+  ],
+  "author": "Rishav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishavsharma-eth/colorify-logs/issues"
+  },
+  "homepage": "https://github.com/rishavsharma-eth/colorify-logs#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
