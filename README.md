@@ -1,0 +1,1 @@
+# Colorify Logs Library - Leave your boring simple logs, instead Colorify your logs
