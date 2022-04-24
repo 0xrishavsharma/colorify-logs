@@ -1,8 +1,8 @@
 # Colorify Logs Library - Leave your boring simple logs, instead Colorify your logs
 
-### A simple library to help you beautify your console logs.Feel free to fork it, customize it and make it your own. 
+### A simple library to help you beautify your console logs. Feel free to fork it, customize it and make it your own. 
 
-#### This library allows you to use 4 types of console log methods:
+##### This library allows you to use 4 types of console log methods:
     1. log.info("Your message")
     2. log.success("Your message")
     3. log.warning("Your message")
